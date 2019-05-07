@@ -1,0 +1,20 @@
+{
+    "name": "Liga Deportiva Parroquial Totoras",
+    "short_name": "LDPT",
+    "description": "Aplicación PWA para Gestión y Administracioón de procesos deportivos",
+    "backgroud_color": "#FFF",
+    "theme_color" : "blue",
+    "orientation" : "portrait",
+    "display": "standalone",
+    "start_url": "./index.html?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-ES",
+    "icons": [
+        {
+            "src": "./img/logo.png",
+            "size": "1024x1024",
+            "type": "image/png"
+        }
+    ]
+
+}
